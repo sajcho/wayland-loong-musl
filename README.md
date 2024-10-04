@@ -1,2 +1,4 @@
-# wayland-loong-musl
-wayland-loong-musl 64bit
+# wayland-loong-musl 64bit
+SAUX LoongArch musl (libc) - wayland repo
+
+
